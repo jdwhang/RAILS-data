@@ -1,4 +1,8 @@
-﻿Legend:
+Data generated for Whang 2021
+
+Surprisal of phonological alternations observed in lexicon (transform "Target" to "Change") after "Context" (Shannon 1948; Durvasula & Kahng 2015).
+
+Legend:
 Voiced vowel = lower case (e.g., 'i, e')
 Devoiced vowel = upper case (e.g., 'I, E')
 Short vowel = plain ('i, I, e, E')

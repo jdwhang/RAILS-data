@@ -1,4 +1,7 @@
-﻿Legend:
+Data generated for Whang 2021
+Biphone O/E ratios and phonotactic constraints induced based on StaGe (Adriaans and Kager 2010)
+
+Legend:
 Voiced vowel = lower case (e.g., 'i, e')
 Devoiced vowel = upper case (e.g., 'I, E')
 Short vowel = plain ('i, I, e, E')

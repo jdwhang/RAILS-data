@@ -1,4 +1,7 @@
-﻿Legend:
+Data generated for Whang 2021
+Phrase-level contextual surprisal of "S2" after "S1" (Whang 2019, Shannon 1948)
+
+Legend:
 Voiced vowel = lower case (e.g., 'i, e')
 Devoiced vowel = upper case (e.g., 'I, E')
 Short vowel = plain ('i, I, e, E')
